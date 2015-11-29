@@ -252,6 +252,7 @@ Suumo - a real estate site
 <img src="assets/10_polymer2/3.png">
 
 ---
+
 ## Accessibility
 #### Alice Boxhall & Laura Palmaro
 --
@@ -262,3 +263,208 @@ Suumo - a real estate site
 <img src="assets/11_accessibility/3.png">
 
 ---
+
+## DevTools in 2015: Authoring to the max
+#### Paul Bakaus
+--
+<img src="assets/12_devtools/1.png">
+--
+<img src="assets/12_devtools/2.png">
+--
+<img src="assets/12_devtools/3.png">
+--
+- Reorganized tabs and context menus
+- More appealing to designers
+- Color pickers
+- Mobile first
+- New device mode
+- Device chrome is shown
+- Better support for animations
+
+---
+
+## Introduction to RAIL
+#### Paul Irish & Paul Lewis
+--
+<img src="assets/13_railintro/1.png">
+--
+<img src="assets/13_railintro/2.png">
+--
+<img src="assets/13_railintro/3.png">
+--
+<img src="assets/13_railintro/4.png">
+--
+<img src="assets/13_railintro/5.png">
+--
+<img src="assets/13_railintro/6.png">
+--
+<img src="assets/13_railintro/7.png">
+--
+<img src="assets/13_railintro/8.png">
+--
+<img src="assets/13_railintro/9.png">
+--
+<img src="assets/13_railintro/10.png">
+
+
+---
+
+## RAIL in the real world
+#### Paul Lewis
+--
+<img src="assets/14_railreal/1.png">
+--
+<img src="assets/14_railreal/2.png">
+--
+<img src="assets/14_railreal/3.png">
+--
+<img src="assets/14_railreal/4.png">
+--
+<img src="assets/14_railreal/5.png">
+--
+<img src="assets/14_railreal/6.png">
+--
+<img src="assets/14_railreal/7.png">
+--
+<img src="assets/14_railreal/8.png">
+--
+<img src="assets/14_railreal/9.png">
+--
+<img src="assets/14_railreal/10.png">
+--
+<img src="assets/14_railreal/11.png">
+
+---
+
+## Owning your performance: RAIL
+#### Paul Irish
+--
+<img src="assets/15_railperf/1.png">
+--
+<img src="assets/15_railperf/2.png">
+--
+<img src="assets/15_railperf/3.png">
+--
+<img src="assets/15_railperf/4.png">
+--
+<img src="assets/15_railperf/5.png">
+
+---
+
+## V8 Performance from the Driver's Seat
+#### Seth Thompson
+--
+<img src="assets/16_v8/1.png">
+--
+<img src="assets/16_v8/2.png">
+--
+<img src="assets/16_v8/3.png">
+--
+<img src="assets/16_v8/4.png">
+--
+<img src="assets/16_v8/5.png">
+--
+<img src="assets/16_v8/6.png">
+--
+<img src="assets/16_v8/7.png">
+--
+<img src="assets/16_v8/8.png">
+--
+<img src="assets/16_v8/9.png">
+--
+<img src="assets/16_v8/10.png">
+--
+<img src="assets/16_v8/11.png">
+--
+<img src="assets/16_v8/12.png">
+--
+<img src="assets/16_v8/13.png">
+--
+<img src="assets/16_v8/14.png">
+
+---
+
+## Quantify and improve real-world RAIL
+#### Ilya Grigorik
+--
+<img src="assets/17_improverail/1.png">
+--
+<img src="assets/17_improverail/2.png">
+--
+<img src="assets/17_improverail/3.png">
+--
+<img src="assets/17_improverail/4.png">
+--
+<img src="assets/17_improverail/5.png">
+--
+<img src="assets/17_improverail/7.png">
+--
+<img src="assets/17_improverail/8.png">
+--
+<img src="assets/17_improverail/9.png">
+--
+<img src="assets/17_improverail/10.png">
+--
+<img src="assets/17_improverail/11.png">
+--
+<img src="assets/17_improverail/12.png">
+--
+<img src="assets/17_improverail/13.png">
+--
+<img src="assets/17_improverail/14.png">
+--
+<img src="assets/17_improverail/15.png">
+--
+<img src="assets/17_improverail/16.png">
+
+---
+
+## HTTP/2 101
+#### Surma
+--
+<img src="assets/18_http2/1.png">
+--
+<img src="assets/18_http2/2.png">
+--
+<img src="assets/18_http2/3.png">
+--
+<img src="assets/18_http2/4.png">
+--
+<img src="assets/18_http2/5.png">
+--
+<img src="assets/18_http2/6.png">
+--
+<img src="assets/18_http2/7.png">
+--
+<img src="assets/18_http2/8.png">
+--
+<img src="assets/18_http2/9.png">
+--
+<img src="assets/18_http2/10.png">
+--
+<img src="assets/18_http2/11.png">
+--
+<img src="assets/18_http2/12.png">
+--
+<img src="assets/18_http2/13.png">
+--
+<img src="assets/18_http2/14.png">
+--
+<img src="assets/18_http2/15.png">
+--
+<img src="assets/18_http2/16.png">
+--
+<img src="assets/18_http2/17.png">
+--
+<img src="assets/18_http2/18.png">
+--
+<img src="assets/18_http2/19.png">
+--
+<img src="assets/18_http2/20.png">
+
+---
+
+## Building and deploying a Progressive Web App at scale with Flipkart
+#### Amar Nagaram, Abhinav Rastogi and Jai Santosh
+--
+<iframe class="stretch" data-src="https://www.youtube.com/embed/StdKz32M1RM?start=107&end=270" height="100%" width="100%" frameborder="0" allowfullscreen></iframe>
